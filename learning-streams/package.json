@@ -2,7 +2,9 @@
   "name": "learning-streams",
   "scripts": {
     "dev": "node --watch --experimental-strip-types index.ts",
-    "custom-streams": "node --watch --experimental-strip-types customStreams.ts"
+    "custom-streams": "node --watch --experimental-strip-types customStreams.ts",
+    "string-processing": "node --watch --experimental-strip-types stringPorcessing.ts",
+    "wondering why i have done like this ": " dude im lazy "
   },
   "type": "module",
   "version": "1.0.0",
