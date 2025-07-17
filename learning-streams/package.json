@@ -1,7 +1,8 @@
 {
   "name": "learning-streams",
   "scripts": {
-    "dev": "node --watch --experimental-strip-types index.ts"
+    "dev": "node --watch --experimental-strip-types index.ts",
+    "custom-streams": "node --watch --experimental-strip-types customStreams.ts"
   },
   "type": "module",
   "version": "1.0.0",

@@ -14,10 +14,10 @@ Welcome to this mini-series on mastering **Node.js Streams**. This guide will he
 - ✅ **Create HTTP Server**
 - ✅ **Downloading Big Files from Server (The Good & Bad Way)**
 - ✅ **Copy Files on File Systems (The Good & Bad Way)**
+- ✅ **Create Custom Streams (Readable / Writable / Transform)**
 
 ### 🧪 In Progress / To Do (with each comit LOL)
 
-- [ ] **Create Custom Streams (Readable / Writable / Transform)**
 - [ ] **String Processing (The Good & Bad Way)**
 - [ ] **Pipes**
 - [ ] **Types of Streams**
