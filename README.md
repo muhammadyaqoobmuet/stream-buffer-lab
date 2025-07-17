@@ -18,18 +18,6 @@ Deep dive into Node.js streams with practical examples covering:
 
 Understanding low-level data handling in Node.js
 
-## 🚀 Getting Started
-
-```bash
-# Navigate to learning-streams
-cd learning-streams
-
-# Install dependencies
-npm install
-
-# Run examples
-npm run dev
-```
 
 ## 💡 Key Concepts
 
